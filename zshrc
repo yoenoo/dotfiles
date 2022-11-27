@@ -30,3 +30,6 @@ DISABLE_AUTO_TITLE="true"
 
 # iterm2 <-> tmux support 
 export TERM=xterm-256color
+
+# conda setup
+export PATH="/opt/homebrew/Caskroom/miniconda/base/bin:$PATH"
