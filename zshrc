@@ -33,3 +33,6 @@ export TERM=xterm-256color
 
 # conda setup
 export PATH="/opt/homebrew/Caskroom/miniconda/base/bin:$PATH"
+
+# docker setup
+export DOCKER_DEFAULT_PLATFORM=linux/amd64

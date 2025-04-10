@@ -54,7 +54,8 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o "
 set shiftwidth=2
 set softtabstop=2
 set tabstop=2
-set noexpandtab
+"set noexpandtab
+set expandtab
 
 " Proper search
 set incsearch
