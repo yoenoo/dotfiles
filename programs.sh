@@ -20,7 +20,7 @@ brew install --cask windsurf
 brew install --cask visual-studio-code
 brew install --cask superwhisper
 brew install --cask linear-linear
-brew install wireshark
+brew install --cask wireshark
 brew install --cask zotero
 brew install --cask obs
 brew install --cask raycast
